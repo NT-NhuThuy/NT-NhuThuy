@@ -1,16 +1,25 @@
-## Hi there 👋
+## Nhìn sang giữa i :> 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+    <h2> Hì ! Mình là Như Thúy 👋</h2>
+    <p> 💤 Đang mất ngủ 💤</p>
+</div> 
 
-<!--
-**NT-NhuThuy/NT-NhuThuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### 💬 About me : còn nhiều điều bí ẩn, từ từ khám phá i :> 
+           /\_/\                       /\_/\                 /\_/\
+          ( o.o )     ?               ( o.o )      !        ( o.o )     @@ 
+           > ^ <                       > ^ <                 > ^ <
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### 🌸 Bí mật chưa được bật mí : nào gặp kể cho nghe. 
+---
+
+### 📫 Don't reach me...~~~
+
+<div align="center">
+    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
+    <p>✨ Thanks for visiting! ✨</p>
+</div>
+
